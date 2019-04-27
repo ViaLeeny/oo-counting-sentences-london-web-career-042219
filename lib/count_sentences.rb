@@ -18,6 +18,5 @@ class String
     complex_string = self.split(/[.?!]+/)
     complex_string.count
   end
-  binding.pry
 end
 puts "hey there"
